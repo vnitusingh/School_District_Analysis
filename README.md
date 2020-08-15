@@ -20,7 +20,7 @@ The results and summary below describes how replacing Thomas High School 9th gra
 
 - How is the school summary affected?
   
-  The shool summary originally looked like:
+  The school summary originally looked like:
   ![](images/school_summary_orig.png)
 
   After the Thomas High School 9th grade scores were replaced with NaN, the school summary looks like:
@@ -46,24 +46,32 @@ The results and summary below describes how replacing Thomas High School 9th gra
   And the school rankings after the changes:
   ![](images/school_ranking_uptd.png)
 
-  **Looks like after the 9th grade math and reading scores were replaced with NaN, Thomas High School lost its ranking in the top performing schools.** 
+  **Looks like after the 9th grade math and reading scores were replaced with NaN, Thomas High School lost its ranking in the top 5 performing schools.** 
 
   **Since, the overall passing percentage for Thomas High School is 65, it ranks somewhere in the middle in the school rankings.**
 
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
+  
 
          Grade Wise Math Score before the changes:
+
          ![](images/math_scores_by_grade_orig.png)
+         
          Grade Wise Math Score after the changes:
+
          ![](images/math_scores_by_grade_uptd.png)
 
         **The Thomas High School 9th grade average for math is calculated as NaN. Not much changes are observed in grade averages.**
 
          Grade Wise Reading Score before the changes:
+
          ![](images/reading_scores_by_grade_orig.png)
+
          Grade Wise Reading Score after the changes:
+
          ![](images/reading_scores_by_grade_uptd.png)
+         
 
         **The Thomas High School 9th grade average for reading is calculated as NaN. Not much changes are observed in grade averages.**
 
@@ -71,9 +79,13 @@ The results and summary below describes how replacing Thomas High School 9th gra
     - Scores by school spending
         
         Scores by school spending before the change:
+
         ![](images/spending_summary_orig.png)
+
         Scores by school spending after the change:
+
         ![](images/spending_summary_uptd.png)
+
         
         The reading and overall passing percentage **decreased by 7 points**, math percentage **decreased by 6 points** for schools that spent $630 to $644 per student**
 
