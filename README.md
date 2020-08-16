@@ -111,8 +111,8 @@ The results and summary below describes how replacing Thomas High School 9th gra
 From all the above results we can summarize that **replacing Thomas High School's ninth grade score with NaN**:
 
 1. Does not have impact on average math and reading scores for Charter schools, schools with per student spending of $630 to $644 and school size of 1000 - 2000. 
-2. However, the percentage passing of math and  reading and overall passing is decreased for above mentioned categories.
-3. Thomas High School lost its ranking as top performing school dropping from rank 4th to 8th.
+2. However, the passing percentage of math and  reading and overall passing is decreased for above mentioned categories.
+3. Thomas High School lost its ranking in the 5 top performing school.
 4. At district level the average math score dipped by 0.1 point. Average reading score didn't have any impact.
    
 
